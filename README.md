@@ -1,5 +1,5 @@
 
-![Space odyssey](https://giffiles.alphacoders.com/114/114232.gif)
+![Space odyssey](https://www.sim-vicus.de/wp-content/uploads/2023/01/SIM-VICUS-Building-components.gif)
 
 ### Hi there 👋
 
