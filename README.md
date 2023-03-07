@@ -1,5 +1,5 @@
 
-![Space odyssey](https://www.sim-vicus.de/wp-content/uploads/2023/02/SIM-VICUS_P9COtZjj27.png)
+![Space odyssey](https://i.pinimg.com/originals/a3/18/61/a3186153c39f3ec984cbf20ec50d9da0.gif)
 
 ### Hi there 👋
 
