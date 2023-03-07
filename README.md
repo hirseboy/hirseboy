@@ -1,5 +1,5 @@
 
-![Space odyssey](https://www.sim-vicus.de/wp-content/uploads/2023/01/SIM-VICUS-Building-components.gif)
+![Space odyssey](https://www.sim-vicus.de/wp-content/uploads/2023/02/SIM-VICUS_P9COtZjj27.png)
 
 ### Hi there 👋
 
