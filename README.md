@@ -1,4 +1,12 @@
+
+![Space odyssey](https://giffiles.alphacoders.com/114/114232.gif)
+
 ### Hi there 👋
+
+- 🔭 I’m currently working on [SIM-VICUS](https://github.com/ghorwin/SIM-VICUS) and lots of other tools
+- 🌱 I’m currently learning OpenGL, PHP, CSS, and a bit Italian
+- 👯 I’m looking to collaborate on building energy simulation projects
+- 😄 Pronouns: he/him
 
 <!--
 **hirseboy/hirseboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
