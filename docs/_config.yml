@@ -29,7 +29,7 @@ baseurl: /hirseboy/      # place folder name if the site is served in a subfolde
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme: CloudCannon/vonge-jekyll-bookshop-template
 plugins:
   - jekyll-feed
 
