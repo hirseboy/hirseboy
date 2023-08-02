@@ -29,9 +29,10 @@ baseurl: /hirseboy/      # place folder name if the site is served in a subfolde
 
 # Build settings
 markdown: kramdown
-remote_theme: CloudCannon/vonge-jekyll-bookshop-template
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
